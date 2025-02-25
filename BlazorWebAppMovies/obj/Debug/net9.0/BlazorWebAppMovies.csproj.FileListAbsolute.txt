@@ -339,3 +339,4 @@ C:\Users\tonyt\Desktop\Development\LearnMicrosoft\MovieDatabaseApp\BlazorWebAppM
 C:\Users\tonyt\Desktop\Development\LearnMicrosoft\MovieDatabaseApp\BlazorWebAppMovies\obj\Debug\net9.0\compressed\3gin1ph7ub-25o87uqmvr.gz
 C:\Users\tonyt\Desktop\Development\LearnMicrosoft\MovieDatabaseApp\BlazorWebAppMovies\obj\Debug\net9.0\compressed\9lt7kf5e0q-teg75ulj0t.gz
 C:\Users\tonyt\Desktop\Development\LearnMicrosoft\MovieDatabaseApp\BlazorWebAppMovies\obj\Debug\net9.0\BlazorWe.6E9C9790.Up2Date
+C:\Users\tonyt\Desktop\Development\LearnMicrosoft\MovieDatabaseApp\BlazorWebAppMovies\obj\Debug\net9.0\BlazorWebAppMovies.sourcelink.json
