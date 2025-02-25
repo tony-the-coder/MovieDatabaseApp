@@ -1,6 +1,6 @@
 # Movie Database App
 
-This project is a Movie Database Application built using Blazor WebAssembly. It follows the tutorial provided by Microsoft: [Create a database app with Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/movie-database-app/part-3?view=aspnetcore-9.0&pivots=vsc).
+This project is a Movie Database Application built using Blazor Server. It follows the tutorial provided by Microsoft: [Create a database app with Blazor](https://learn.microsoft.com/en-us/aspnet/core/blazor/tutorials/movie-database-app/part-3?view=aspnetcore-9.0&pivots=vsc).
 
 ## Features
 
